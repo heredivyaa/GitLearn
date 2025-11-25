@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 I m in dev branch....
 Hello, This is the java file by main branch
+=======
+I m in dev branch..
+>>>>>>> development
